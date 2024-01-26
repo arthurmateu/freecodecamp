@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXZ3C6PfhHMOlsyhEkVUEEZGNZfhBq/h/saxZD9BrqA7LWvBvwasnJbmYf4elCssWSVpgEDm+6ZIkjDtWe6xdA==",
+  "success": true,
+  "projectFilePath": "/home/arthur/Projects/freecodecamp/foundational-csharp-ms/hello-world/foundational-csharp-ms.csproj",
+  "expectedPackageFiles": [
+    "/home/arthur/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
