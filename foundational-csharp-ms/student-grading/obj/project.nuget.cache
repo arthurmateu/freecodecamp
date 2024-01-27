@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWLw6UHt41gcmRotb0mC2kfCBky4bjXk4v3cIpMN4yokk06KH08xdX0sfBwVHA4vJsMeEkVGIN5QpoGXjWnTkQ==",
+  "success": true,
+  "projectFilePath": "/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/student-grading.csproj",
+  "expectedPackageFiles": [
+    "/home/arthur/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

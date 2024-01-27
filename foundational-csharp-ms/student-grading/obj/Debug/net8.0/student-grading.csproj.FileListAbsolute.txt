@@ -1,0 +1,14 @@
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/bin/Debug/net8.0/student-grading
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/bin/Debug/net8.0/student-grading.deps.json
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/bin/Debug/net8.0/student-grading.runtimeconfig.json
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/bin/Debug/net8.0/student-grading.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/bin/Debug/net8.0/student-grading.pdb
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/student-grading.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/student-grading.AssemblyInfoInputs.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/student-grading.AssemblyInfo.cs
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/student-grading.csproj.CoreCompileInputs.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/student-grading.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/refint/student-grading.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/student-grading.pdb
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/student-grading.genruntimeconfig.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/student-grading/obj/Debug/net8.0/ref/student-grading.dll
