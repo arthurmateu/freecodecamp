@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YyjtI5tNWWL8DBtKCgS5mKZviABar2RNc1Ax6rY/lNzbTeCLT2+6p+fcvqFRuDpMWU/vu6sSHzMIGJSpW5XGHg==",
+  "success": true,
+  "projectFilePath": "/home/arthur/Projects/freecodecamp/foundational-csharp-ms/subscription-renewal/decision-logic.csproj",
+  "expectedPackageFiles": [
+    "/home/arthur/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
