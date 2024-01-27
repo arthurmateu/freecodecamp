@@ -1,0 +1,14 @@
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/bin/Debug/net8.0/larger-value
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/bin/Debug/net8.0/larger-value.deps.json
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/bin/Debug/net8.0/larger-value.runtimeconfig.json
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/bin/Debug/net8.0/larger-value.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/bin/Debug/net8.0/larger-value.pdb
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/larger-value.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/larger-value.AssemblyInfoInputs.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/larger-value.AssemblyInfo.cs
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/larger-value.csproj.CoreCompileInputs.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/larger-value.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/refint/larger-value.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/larger-value.pdb
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/larger-value.genruntimeconfig.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/obj/Debug/net8.0/ref/larger-value.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFN7kSgdgZmV5wmXzeAuvvSQRd5mzF/z/G6k84NcGUkK3NPeIoEYGP+zpgkE5sTF59t5j4Hc4LFWZEgn65S09Q==",
+  "success": true,
+  "projectFilePath": "/home/arthur/Projects/freecodecamp/foundational-csharp-ms/larger-value/larger-value.csproj",
+  "expectedPackageFiles": [
+    "/home/arthur/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
