@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8B412m3elu9Ml/7mylM5tZga9lxfm/sWbVSaFCn5+tLHykOB6eHO/2tvicmVrJk20FwocVMEyOYCS7nJ+ve/g==",
+  "success": true,
+  "projectFilePath": "/home/arthur/Projects/freecodecamp/foundational-csharp-ms/fraudulent-order/arrays.csproj",
+  "expectedPackageFiles": [
+    "/home/arthur/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
