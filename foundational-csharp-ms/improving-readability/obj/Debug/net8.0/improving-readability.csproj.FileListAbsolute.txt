@@ -1,0 +1,14 @@
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/improving-readability.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/improving-readability.AssemblyInfoInputs.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/improving-readability.AssemblyInfo.cs
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/improving-readability.csproj.CoreCompileInputs.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/bin/Debug/net8.0/improving-readability
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/bin/Debug/net8.0/improving-readability.deps.json
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/bin/Debug/net8.0/improving-readability.runtimeconfig.json
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/bin/Debug/net8.0/improving-readability.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/bin/Debug/net8.0/improving-readability.pdb
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/improving-readability.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/refint/improving-readability.dll
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/improving-readability.pdb
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/improving-readability.genruntimeconfig.cache
+/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/obj/Debug/net8.0/ref/improving-readability.dll

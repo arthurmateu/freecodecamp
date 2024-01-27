@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F/3IqeLSEAv/WrlA5qkKPE7Z8UMbXTg7fR6iplbLLxC8CtQ33fFnpDXrKMsMyTLUOGykG3MzLoturWXmUEICCw==",
+  "success": true,
+  "projectFilePath": "/home/arthur/Projects/freecodecamp/foundational-csharp-ms/improving-readability/improving-readability.csproj",
+  "expectedPackageFiles": [
+    "/home/arthur/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
