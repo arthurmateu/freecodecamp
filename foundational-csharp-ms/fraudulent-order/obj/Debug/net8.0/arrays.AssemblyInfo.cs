@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd253b4b85959f527ecbef388d4c7373843a592e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b27ff99cf5961b285da6b5e21038929188e5a24e")]
 [assembly: System.Reflection.AssemblyProductAttribute("arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
