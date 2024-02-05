@@ -1,6 +1,7 @@
 {
 	"author": "Arthur Mateu",
 	"description": "Small freeCodeCamp guided NPM project to learn about this technology and its capabilities",
+	"keywords": ["freecodecamp", "npm", "learning"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
