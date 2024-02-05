@@ -7,6 +7,7 @@
 		"learning"
 	  ],
 	"license": "GNU-3.0",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
