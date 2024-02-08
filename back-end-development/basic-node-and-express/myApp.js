@@ -1,6 +1,7 @@
 let express = require('express');
 let app = express();
 require('dotenv').config()
+let bodyParser = require("body-parser");
 
 console.log("Hello World");
 absolutePath = __dirname + "/views/index.html";
@@ -13,6 +14,8 @@ app.use((req, res, next) => {
     console.log(`${req.method} ${req.path} - ${req.ip}`);
     next();
   });
+
+app.use(bodyParser.urlencoded({extended: false}))
 
 
 app.get("/", (req, res) => {
