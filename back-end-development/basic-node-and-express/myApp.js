@@ -32,17 +32,21 @@ app.get("/json", (req, res) => {
 app.get("/now", (req, res, next) => {
     req.time = new Date().toString();
     next();
-  }, (req, res) => {
-    res.json({time: req.time});
-  });
+}, (req, res) => {
+  res.json({time: req.time});
+});
 
-  app.get("/:word/echo", (req, res) => {
-    res.json({echo: req.params.word});;
-  });
+app.get("/:word/echo", (req, res) => {
+  res.json({echo: req.params.word});;
+});
 
-  app.get("/name", (req, res) => {
-    res.json({name: req.query.first + " " + req.query.last});
-  });
+app.get("/name", (req, res) => {
+  res.json({name: req.query.first + " " + req.query.last});
+});
+
+app.post("/name", (req, res) => {
+  res.json({name: req.body.first + " " + req.body.last});
+});
 
 
 
