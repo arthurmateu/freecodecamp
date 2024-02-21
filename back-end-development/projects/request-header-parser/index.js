@@ -16,15 +16,19 @@ app.use(express.static('public'));
 
 // http://expressjs.com/en/starter/basic-routing.html
 app.get('/', function (req, res) {
-  res.sendFile(__dirname + '/views/index.html');
+    res.sendFile(__dirname + '/views/index.html');
 });
 
-// your first API endpoint...
-app.get('/api/hello', function (req, res) {
-  res.json({ greeting: 'hello API' });
+// PROJECT: Return json file including ip address, language and software of client when accessing /api/whoami
+app.get('/api/whoami', function (req, res) {
+    res.json({
+        ipaddress: req.header('x-forwarded-for') || req.socket.remoteAddress,
+        language: req.headers["accept-language"],
+        software: req.headers["user-agent"]
+    });
 });
 
 // listen for requests :)
 var listener = app.listen(process.env.PORT || 3000, function () {
-  console.log('Your app is listening on port ' + listener.address().port);
+    console.log('Your app is listening on port ' + listener.address().port);
 });
